@@ -1,0 +1,10 @@
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/CMakeFiles/pua_copy_application.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/CMakeFiles/ALL_BUILD.dir

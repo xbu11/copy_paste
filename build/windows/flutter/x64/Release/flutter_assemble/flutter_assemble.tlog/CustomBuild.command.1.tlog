@@ -1,0 +1,28 @@
+^C:\USERS\RTAS\DOCUMENTS\PROJECTS\FLUTTER\PUA_COPY_APPLICATION\BUILD\WINDOWS\CMAKEFILES\8D6A7705DBDED03ED79D02D295C7184E\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\tools\flutter PROJECT_DIR=C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application FLUTTER_ROOT=C:\tools\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application\windows\flutter\ephemeral PROJECT_DIR=C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application\.dart_tool\package_config.json C:/tools/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\RTAS\DOCUMENTS\PROJECTS\FLUTTER\PUA_COPY_APPLICATION\BUILD\WINDOWS\CMAKEFILES\474601F458B488A7811DE306F9E72D54\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\RTAS\DOCUMENTS\PROJECTS\FLUTTER\PUA_COPY_APPLICATION\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/windows -BC:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows --check-stamp-file C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

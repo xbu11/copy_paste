@@ -1,0 +1,2 @@
+C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application\build\windows\flutter\Debug\flutter_wrapper_plugin.pdb
+C:\Users\rtas\Documents\Projects\Flutter\pua_copy_application\build\windows\flutter\flutter_wrapper_plugin.dir\Debug\flutter_wrapper_plugin.pdb

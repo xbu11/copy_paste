@@ -1,0 +1,4 @@
+#Fri Feb 12 15:57:39 GMT+06:00 2021
+base.0=C\:\\Users\\rtas\\Documents\\Projects\\Flutter\\pua_copy_application\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

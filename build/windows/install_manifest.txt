@@ -1,0 +1,10 @@
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/icudtl.dat
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/flutter_windows.dll
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/fonts/roboto/Roboto-Black.ttf
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/fonts/roboto/Roboto-Regular.ttf
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/NOTICES
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/rtas/Documents/Projects/Flutter/pua_copy_application/build/windows/runner/Release/data/app.so

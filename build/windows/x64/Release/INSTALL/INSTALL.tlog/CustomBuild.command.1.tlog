@@ -1,0 +1,10 @@
+^C:\USERS\RTAS\DOCUMENTS\PROJECTS\FLUTTER\PUA_COPY_APPLICATION\BUILD\WINDOWS\CMAKEFILES\9DC1E7A97A19A39E9B7D188674988ED9\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
