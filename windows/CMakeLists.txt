@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 project(pua_copy_application LANGUAGES CXX)
 
-set(BINARY_NAME "pua_copy_application")
+set(BINARY_NAME "Copy Paste App")
 
 cmake_policy(SET CMP0063 NEW)
 
